@@ -6,5 +6,5 @@
 
 **Como usar**
 > 1. Instale o [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-> 2. Clone o repo: `https://github.com/EvandroHiga/react_ecommerce.git`
+> 2. Clone o repo: `https://github.com/EvandroHiga/react_fiap_social_web.git`
 > 3. Dentro do diretório do projeto, faça: `npm install`. Após a conclusão, `npm start`.
